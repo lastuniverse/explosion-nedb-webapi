@@ -1,0 +1,29 @@
+{
+  "name": "explosion-nedb-webapi",
+  "version": "0.0.1",
+  "description": "test nedb-webapi",
+  "main": "index.js",
+  "directories": {},
+  "dependencies": {
+    "explosion": ""
+  },
+  "devDependencies": {},
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lastuniverse/explosion-nedb-webapi.git"
+  },
+  "keywords": [
+    "server",
+    "websocket",
+    "explosion",
+    "database",
+    "nedb"
+  ],
+  "author": "lastuniverse\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[DRoman Surmanidze aka lastuniverse",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lastuniverse/explosion-nedb-webapi/issues"
+  },
+  "homepage": "https://github.com/lastuniverse/explosion-nedb-webapi#readme"
+}
